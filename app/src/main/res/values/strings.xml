@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MealApp</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_detail_meals">DetailMealsActivity</string>
+    <string name="large_text"></string>
+    <string name="action_settings">Settings</string>
+    <string name="meals">Meals</string>
+    <string name="category">Category</string>
+    <string name="area">Area</string>
+    <string name="instructions">Instructions</string>
+    <string name="tags">Tags</string>
+    <string name="youtube">YouTube</string>
+</resources>
